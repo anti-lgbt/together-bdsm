@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	return 3 + 4
+	return 1 + 2
 }
